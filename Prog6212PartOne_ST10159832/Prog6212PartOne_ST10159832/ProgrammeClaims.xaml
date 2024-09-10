@@ -7,6 +7,24 @@
         mc:Ignorable="d"
         Title="ProgrammeClaims" Height="450" Width="800">
     <Grid>
-        
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="45,53,437,82">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="437,53,56,82">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Approved Claims" HorizontalAlignment="Left" Margin="154,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="Declined Claims" HorizontalAlignment="Left" Margin="543,18,0,0" VerticalAlignment="Top"/>
+        <Button Content="Review Claims" HorizontalAlignment="Left" Margin="160,374,0,0" VerticalAlignment="Top" Height="30" Width="88"/>
+        <Button Content="Review Claims" HorizontalAlignment="Left" Margin="546,379,0,0" VerticalAlignment="Top" Height="30" Width="89"/>
+
     </Grid>
 </Window>
