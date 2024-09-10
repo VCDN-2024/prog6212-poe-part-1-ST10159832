@@ -1,0 +1,15 @@
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\bin\Debug\Prog6212PartOne_ST10159832.exe.config
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\bin\Debug\Prog6212PartOne_ST10159832.exe
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\bin\Debug\Prog6212PartOne_ST10159832.pdb
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832.csproj.AssemblyReference.cache
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\MainWindow.g.cs
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\App.g.cs
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832_MarkupCompile.cache
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832_MarkupCompile.lref
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\MainWindow.baml
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832.g.resources
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832.Properties.Resources.resources
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832.csproj.GenerateResource.cache
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832.csproj.CoreCompileInputs.cache
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832.exe
+C:\Users\ghisy\source\repos\Prog6212PartOne_ST10159832\Prog6212PartOne_ST10159832\obj\Debug\Prog6212PartOne_ST10159832.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Prog6212PartOne_ST10159832.ProgrammeDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prog6212PartOne_ST10159832"
+        mc:Ignorable="d"
+        Title="ProgrammeDetails" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Center" Margin="0,129,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="29"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="119" Height="29"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="340,93,0,0" VerticalAlignment="Top"/>
+        <Label Content="Email address" HorizontalAlignment="Left" Margin="340,178,0,0" VerticalAlignment="Top"/>
+        <Button Content="Submit" HorizontalAlignment="Left" Margin="306,302,0,0" VerticalAlignment="Top" Width="76" Height="30"/>
+        <Button Content="Main Menu " HorizontalAlignment="Left" Margin="425,302,0,0" VerticalAlignment="Top" Width="76" Height="30"/>
+
+    </Grid>
+</Window>

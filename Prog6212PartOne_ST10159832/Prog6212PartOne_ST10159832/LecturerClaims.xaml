@@ -1,0 +1,39 @@
+﻿<Window x:Class="Prog6212PartOne_ST10159832.LecturerClaims"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prog6212PartOne_ST10159832"
+        mc:Ignorable="d"
+        Title="LecturerClaims" Height="450" Width="800">
+    <Grid>
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="25,60,547,86">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="279,60,279,86">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView d:ItemsSource="{d:SampleData ItemCount=5}" Margin="542,60,22,86">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Label Content="Approved Claims" HorizontalAlignment="Left" Margin="89,23,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Declined Claims" HorizontalAlignment="Center" Margin="0,23,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Pending claims" HorizontalAlignment="Left" Margin="610,23,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Content="View Claims" HorizontalAlignment="Left" Margin="99,372,0,0" VerticalAlignment="Top" Width="80" Height="33"/>
+        <Button Content="View Claims" HorizontalAlignment="Center" Margin="0,372,0,0" VerticalAlignment="Top" Width="80" Height="33"/>
+        <Button Content="View claims" HorizontalAlignment="Left" Margin="620,372,0,0" VerticalAlignment="Top" Width="80" Height="33"/>
+
+    </Grid>
+</Window>
